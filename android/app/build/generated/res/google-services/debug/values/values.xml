@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">812102517282-ksqgncip3mj4ho0u437jq957iskfeqc9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">812102517282</string>
+    <string name="google_api_key" translatable="false">AIzaSyBsaJBjHCEjY4u8YrIzgJxjjp-8wvTIcII</string>
+    <string name="google_app_id" translatable="false">1:812102517282:android:14a4576dea484a6676c07b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBsaJBjHCEjY4u8YrIzgJxjjp-8wvTIcII</string>
+    <string name="google_storage_bucket" translatable="false">rockethelp-3449e.appspot.com</string>
+    <string name="project_id" translatable="false">rockethelp-3449e</string>
+</resources>
